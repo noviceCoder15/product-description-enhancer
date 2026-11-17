@@ -1,0 +1,21 @@
+{
+  "base_model": "gpt2",
+  "rank": 8,
+  "alpha": 16.0,
+  "dropout": 0.05,
+  "targets": [
+    "c_attn",
+    "c_proj",
+    "c_fc"
+  ],
+  "steps": 150,
+  "batch_size": 4,
+  "lr": 0.0005,
+  "max_length": 256,
+  "val_fraction": 0.1,
+  "seed": 1337,
+  "examples": 240,
+  "train_loss": 0.5780097097158432,
+  "val_loss": 0.4358985947084523,
+  "seconds": 291.6
+}
