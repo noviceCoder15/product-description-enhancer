@@ -1,5 +1,5 @@
-[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/wv25jrkwyd/badge.svg)](https://msrit.ask.thili.ai/b/wv25jrkwyd)
 # Product Description Enhancer
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/wv25jrkwyd/badge.svg)](https://msrit.ask.thili.ai/b/wv25jrkwyd)
 
 Turn basic product specs into a compelling, keyword-aware description. The tool fine-tunes
 a pre-trained language model (GPT-2) with **LoRA**, written from scratch in PyTorch, then
